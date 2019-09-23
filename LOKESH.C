@@ -7,6 +7,6 @@ clrscr();
 printf("hello world");
 scanf("%d",&a);
 clrscr();
-  printf("\n\n\tThe value scanned is -> %d",a)
+  printf("\n\n\tThe value scanned is -> %d",a);
 getch();
 }
