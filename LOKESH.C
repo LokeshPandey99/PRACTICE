@@ -4,7 +4,9 @@ void main()
 int a;
 clrscr();
 {
-a=printf("hello world");
+printf("hello world");
 scanf("%d",&a);
+clrscr();
+  printf("\n\n\tThe value scanned is -> %d",a)
 getch();
 }
